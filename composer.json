@@ -1,0 +1,22 @@
+{
+    "name": "codecrafted/bing-wallpaper-downloader",
+    "description": "download bing wallpapers archive",
+    "type": "project",
+    "require": {
+        "codecrafted/iron-elephant": "^2.1",
+        "codecrafted/url-extractor": "^1.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codecrafted\\BingWallpaperDownloader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seyed Mahmoud Mousavi",
+            "email": "smousavi503@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

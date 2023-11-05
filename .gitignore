@@ -1,0 +1,7 @@
+/.vscode/
+/vendor/
+composer.lock
+test.php
+phpDocumentor.phar
+wallpaperDownloadsList.txt
+wallpaperPagesList.txt
